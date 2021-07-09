@@ -1,0 +1,401 @@
+Disease,Feature_1,Feature_2,Feature_3,Feature_4,Feature_5,Feature_6,Feature_7,Feature_8,Feature_9,Feature_10,Feature_11,Feature_12,Feature_13,Feature_14,Feature_15,Feature_16,Feature_17,Feature_18,Feature_19,Feature_20,Feature_21,Feature_22,Feature_23,Feature_24,Feature_25,Feature_26,Feature_27,Feature_28,Feature_29,Feature_30,Feature_31,Feature_32,Feature_33,Feature_34,Feature_35,Feature_36,Feature_37,Feature_38,Feature_39,Feature_40,Feature_41,Feature_42,Feature_43,Feature_44,Feature_45,Feature_46,Feature_47,Feature_48,Feature_49,Feature_50
+Disease_1,Male,28.0,130,96.0,2.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,18.0,95,46.0,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,0,No,No,No,No,No,No
+Disease_1,Male,44.0,152,150.0,1.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,0,No,No,No,No,No,No
+Disease_1,Male,19.0,112,66.0,18.0,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Every Day,Evenings,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,0,No,No,No,No,No,No
+Disease_1,Male,17.5,105.5,54.0,3.0,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Every Day,Evenings,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_1,Female,17.0,100,51.0,5.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,No Difference,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,0,No,No,No,No,Yes,Yes
+Disease_1,Male,35.0,143,132.0,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,0,No,No,No,No,No,No
+Disease_1,Male,20.0,111,66.0,1.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Mornings,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,0,No,Yes,No,No,No,No
+Disease_1,Male,37.0,138,132.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,No Difference,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,0,No,No,No,No,No,Yes
+Disease_1,Female,20.0,120,86.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Evenings,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,0,No,No,No,No,No,No
+Disease_1,Female,20.0,120,82.0,30.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,No Difference,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,46.0,156,150.0,1.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Evenings,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,0,No,Yes,Yes,No,No,No
+Disease_1,Female,56.0,181,210.0,18.0,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,0,No,No,No,No,No,No
+Disease_1,Female,50.0,154,144.0,24.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Evenings,Yes,No,Yes,No,No,No,,No,No,No,No,No,No,No,0,No,Yes,No,No,No,No
+Disease_1,Female,29.0,133,138.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,Yes,Yes,No,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,21.0,131,120.0,6.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,No Difference,No,No,No,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_1,Male,21.0,120,96.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,28.0,120,132.0,60.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,64.0,175,192.0,1.5,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,Yes,Yes,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,Yes
+Disease_1,Male,23.0,123,102.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Evenings,No,Yes,No,,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,17.0,105,48.0,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,,No,No,,No,Yes,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,52.0,152,197.0,114.0,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,No,No,Yes,No,,No,No,No,No,No,Yes,No,0,No,No,No,Yes,No,No
+Disease_1,Female,20.0,114,72.0,5.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,Yes,Yes,No,No,Yes,No,,No,No,No,No,No,Yes,No,0,No,No,No,No,No,No
+Disease_1,Male,18.0,94,48.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,Yes,No,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Female,26.0,128,120.0,48.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,Yes,No,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Female,18.0,114,72.0,36.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,Yes,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,45.0,153,150.0,8.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,No Difference,No,No,No,No,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,53.0,158,168.0,36.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Mornings,No,No,Yes,No,No,Yes,,No,No,No,No,No,No,No,0,No,Yes,No,No,No,No
+Disease_1,Female,18.0,110,57.6,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,No Difference,Yes,Yes,No,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,16.0,104,60.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Female,25.0,118,72.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,23.0,122,96.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,45.0,145,144.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,14.0,94,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,18.0,112,72.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Male,38.0,135,120.0,72.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,16.0,106,72.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,25.0,128,120.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,17.0,106,60.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,19.0,114,84.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Female,15.0,101,60.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,17.0,105,72.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Male,25.0,130,132.0,60.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,14.0,95,36.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,14.0,100,60.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,10.0,84,36.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,32.0,135,120.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,21.0,118,84.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Male,18.0,111,72.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,18.0,112,72.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,18.0,113,84.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Male,15.0,100,48.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,20.0,118,84.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,23.0,123,96.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,14.0,92,30.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,20.0,112,72.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,15.0,93,30.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,45.0,151,156.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Female,17.0,107,72.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,20.0,117,84.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,18.0,115,72.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,36.0,142,132.0,48.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_1,Male,22.0,114,72.0,36.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,16.0,110,72.0,48.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,18.0,114,84.0,48.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Female,13.0,92,24.0,12.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,15.0,102,60.0,24.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,15.0,100,48.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_1,Female,26.0,130,120.0,60.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Female,15.0,102,36.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_1,Female,18.0,113,84.0,48.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,18.0,111,72.0,48.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,18.0,113,36.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_1,Female,12.0,88,36.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,23.0,115,84.0,48.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,Yes,Yes, 
+Disease_1,Female,17.0,104,48.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,22.0,120,62.0,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,No,Yes,,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_1,Female,49.0,144,156.0,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Mornings,No,No,Yes,,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,22.0,123,93.0,60.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,Yes,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,18.0,115,36.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Male,17.0,110,60.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,15.0,101,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,17.0,112,72.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,43.0,153,168.0,60.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,16.0,107,60.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,12.0,92,36.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,27.0,113,132.0,60.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Female,14.0,94,33.0,12.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,Yes,Yes, 
+Disease_1,Male,50.0,155,174.0,1.0,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Evenings,Yes,Yes,Yes,No,No,,,No,Yes,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,52.0,155,162.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,No,No,Yes,No,No,,,No,No,No,No,Yes,No,No,0,No,Yes,No,No,No,No
+Disease_1,Male,58.0,165,168.0,24.0,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,No,Yes,Yes,No,No,,,No,Yes,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Female,34.0,140,132.0,36.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,,,No,No,No,No,No,No,No,0,No,Yes,No,No,No,No
+Disease_1,Male,53.0,159,192.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Mornings,No,No,Yes,No,No,,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,40.0,143,171.0,3.0,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,No Difference,Yes,Yes,,No,No,,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_2,Female,40.0,120,139.0,0.33,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Mornings,No,No,Yes,Yes,No,Yes,,No,No,No,No,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_2,Female,47.0,160,176.0,48.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,No,Yes,,,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_2,Male,52.0,162,212.0,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Every Day,No Difference,No,Yes,,No,Yes,,,No,No,No,No,No,No,No,0,No,Yes,No,No,No,No
+Disease_3,Male,14.0,102,42.0,5.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,Yes,Yes
+Disease_3,Female,38.0,153,168.0,6.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Every Day,No Difference,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Female,50.0,161,192.0,6.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,Yes,No,No,Yes
+Disease_3,Female,57.0,167,204.0,6.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,Yes,No,No,Yes
+Disease_3,Female,40.0,148,168.0,12.0,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,Yes,No,No,Yes
+Disease_3,Female,44.0,155,168.0,6.0,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Female,44.0,154,180.0,10.0,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Female,38.0,148,168.0,6.0,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Female,30.0,130,132.0,3.0,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Male,40.0,152,180.0,6.0,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,Yes,No,No
+Disease_3,Female,41.0,151,168.0,6.0,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Male,30.0,135,132.0,12.0,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Male,33.0,141,144.0,48.0,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No, , , , 
+Disease_3,Female,55.0,161,204.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,Yes,Yes
+Disease_3,Female,68.0,161,204.0,10.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,Yes,No,Yes
+Disease_3,Male,49.0,158,180.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Female,58.0,160,204.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Male,55.0,165,192.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No, , , , 
+Disease_3,Female,38.0,145,168.0,6.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Female,45.0,155,164.0,6.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,Yes,No,Yes,Yes
+Disease_3,Female,30.0,134,144.0,6.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,Yes,Yes
+Disease_3,Male,28.0,131,132.0,12.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Male,33.0,141,144.0,6.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Female,20.0,116,96.0,6.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Female,48.0,153,156.0,12.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No, , , , 
+Disease_3,Male,18.0,110,72.0,3.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No, , , , 
+Disease_3,Female,38.0,148,156.0,6.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No, 
+Disease_3,Male,33.0,142,168.0,6.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,0,No,No,No,No,No,No
+Disease_3,Female,38.0,147,144.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Male,26.0,131,120.0,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,Yes,No,Yes,Yes
+Disease_3,Male,23.0,122,120.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Female,29.0,134,144.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Female,28.0,133,132.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Male,52.0,160,192.0,10.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Male,40.0,148,156.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No, , , , 
+Disease_3,Male,38.0,147,144.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No, 
+Disease_3,Female,38.0,147,168.0,24.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No, , , , 
+Disease_3,Female,50.0,161,192.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Female,34.0,145,156.0,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Male,27.0,113,144.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,Yes,No,Yes
+Disease_3,Female,30.0,135,144.0,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Male,38.0,147,156.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Female,24.0,123,98.0,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,Yes,No,No,No
+Disease_3,Female,39.0,149,144.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No, , , , 
+Disease_3,Female,20.0,115,96.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No, 
+Disease_3,Female,26.0,130,132.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,Yes,No,No,Yes
+Disease_3,Male,17.0,106,84.0,3.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0,No,No,Yes,Yes,Yes,Yes
+Disease_3,Female,13.0,92,36.0,3.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,Yes,Yes,Yes,Yes
+Disease_3,Male,84.0,173,156.0,84.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Every Day,Mornings,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,0,No,No,No,No,No,No
+Disease_3,Female,36.0,144,156.0,3.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Female,55.0,162,168.0,108.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Every Day,No Difference,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Male,34.0,150,120.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,0,No,No,No,Yes,Yes,No
+Disease_3,Female,40.0,150,144.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Mornings,No,Yes,No,No,No,No,,No,No,No,No,No,No,Yes,0,No,No,No,No,No,No
+Disease_3,Male,36.0,142,144.0,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,No,No,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,No,No,No
+Disease_3,Female,42.0,148,156.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,Yes,No,No,No,No,No,,Yes,No,No,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Male,33.0,140,138.0,6.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,Yes,No,No,No,No,,Yes,No,No,No,No,No,Yes,0,No,No,No,No,No,No
+Disease_3,Female,27.0,135,120.0,8.0,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No, , , , 
+Disease_3,Female,19.0,115,84.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,Yes,No,No,Yes,0,No,No, , , , 
+Disease_3,Male,49.0,157,180.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,Yes,Yes,No,Yes
+Disease_3,Male,50.0,158,192.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,Yes,No,Yes
+Disease_3,Male,25.0,128,108.0,6.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Female,30.0,115,132.0,10.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Female,44.0,155,168.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,Yes,No,Yes
+Disease_3,Female,17.0,110,54.0,1.5,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,No,Yes,No,No,No,,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Female,32.0,134,84.0,12.0,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Every Day,No Difference,No,No,Yes,No,No,,,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Male,38.0,144,132.0,18.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,No Difference,No,No,Yes,No,No,,,No,No,Yes,No,No,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Male,41.0,149,150.0,1.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,,,Yes,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_3,Male,40.0,148,144.0,2.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,No Difference,No,No,Yes,No,No,,,No,No,No,No,No,No,Yes,0,No,No,No,No,No,No
+Disease_3,Female,31.0,146,112.0,8.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Mornings,No,No,Yes,No,No,,,No,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,Yes,Yes
+Disease_3,Female,30.0, ,138.0,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Mornings,Yes,No,Yes,No,No,,,No,No,Yes,No,Yes,No,Yes,0,No,No,Yes,No,Yes,Yes
+Disease_3,Female,72.0,178,211.0,36.0,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Every Day,Evenings,Yes,No,No,Yes,No,,,No,No,Yes,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Female,23.0,120,65.0,0.3,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,,,No,,,No,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_3,Male,28.5,139,121.0,8.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Every Day,Mornings,No,No,,,No,,,No,No,No,No,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_4,Female,23.0,124,120.0,0.5,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,Yes,Yes,Yes
+Disease_4,Male,17.0,110,60.0,0.6,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,Yes,Yes,Yes
+Disease_4,Male,48.0,155,180.0,0.7,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,Yes,No,Yes
+Disease_4,Female,16.0,108,72.0,0.5,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,Yes,No,Yes
+Disease_4,Male,18.0,111,72.0,0.5,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_4,Female,16.0,104,60.0,0.3,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_4,Female,23.0,121,108.0,0.4,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_4,Female,54.0,164,192.0,0.5,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_4,Female,20.0,116,84.0,0.3,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_4,Male,18.0,94,36.0,0.7,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_4,Female,14.0,94,36.0,0.6,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,Yes,No,No
+Disease_4,Female,14.0,87,36.0,0.8,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,No,No,Yes,No
+Disease_4,Male,18.0,109,60.0,0.4,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No, , , , 
+Disease_4,Female,17.0,114,84.0,0.8,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No, , , ,No
+Disease_4,Male,12.0,87,36.0,0.4,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,Yes,No,No, 
+Disease_4,Female,30.0,132,108.0,0.4,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,No,No,Yes
+Disease_4,Female,14.0,92,30.0,0.6,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,No,No,Yes
+Disease_4,Male,16.0,102,48.0,0.5,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,No,No,Yes
+Disease_4,Male,35.0,144,144.0,0.5,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,No,No,Yes
+Disease_4,Male,24.0,124,108.0,0.3,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,No,No,Yes
+Disease_4,Male,21.0,121,96.0,0.4,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,No,No,Yes
+Disease_4,Female,15.0,101,48.0,0.6,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,No,No,Yes
+Disease_4,Female,46.0,158,168.0,0.6,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,No,,Yes,No,Yes,No,No,No,Yes,0,No,No,No,No,No,Yes
+Disease_4,Male,57.0,162,180.0,0.13,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,,No,Yes,No,,No,No,No,Yes,Yes,No,Yes,0,No,No,Yes,Yes,No,Yes
+Disease_4,Female,30.5,135,130.0,0.06,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Mornings,No,No,Yes,No,No,,,No,No,Yes,Yes,Yes,No,Yes,0,No,No,No,Yes,No,Yes
+Disease_4,Male,45.0,151,174.0,0.5,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,Yes,,,No,No,No,Yes,Yes,No,Yes,0,No,No,No,No,No,Yes
+Disease_2,Male,19.0,111,84.0,36.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,No Difference,No,No,Yes,No,No,No,,Yes,No,No,No,No,No,No,0,No,No, , , , 
+Disease_1,Female,20.5,123.5,90.0,48.0,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,0,No,No,No,No,Yes,Yes
+Disease_1,Male,25.8,129,96.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,40.0,145,144.0,48.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Week,Mornings,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,0,No,No,No,No,No,No
+Disease_1,Male,18.7,108,42.0,3.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,22.0,125,96.0,6.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Week,Evenings,Yes,Yes,No,Yes,Yes,,Yes,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,16.0,101,60.0,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Week,Evenings,No,Yes,Yes,No,Yes,No,,No,Yes,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_3,Male,39.0,145,156.0,3.0,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Week,Evenings,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,0,No,No,Yes,No,No,No
+Disease_1,Male,24.0,130,84.0,12.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Week,Evenings,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,0,No,Yes,No,No,No,No
+Disease_1,Male,30.0,133,96.0,3.0,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,1-2 Days a Week,No Difference,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,0,No,No,No,No,No,No
+Disease_1,Male,21.0,128,84.0,4.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,40.0,142.5,108.0,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,No Difference,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,47.0,151,210.0,8.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,0,No,No,No,No,No,No
+Disease_1,Male,90.0,163,192.0,120.0,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,No,Yes,Yes,No,No,,Yes,No,No,No,No,Yes,No,No,0,No,No,No,No,No,No
+Disease_1,Female,17.0,101,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,25.0,125,108.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,34.0,142,144.0,60.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,18.0,109,60.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,17.0,108,48.0,12.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,31.0,134,132.0,24.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,15.0,102,48.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,19.0,110,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,25.0,127,98.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_1,Female,15.0,90,24.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,22.0,123,98.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,15.0,94,36.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,Yes,No,No
+Disease_1,Female,30.0,125,86.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,13.0,96,48.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,30.0,126,120.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Male,12.0,92,48.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,20.0,117,84.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,27.0,131,132.0,60.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,21.0,120,98.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,19.0,112,36.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,40.0,148,132.0,60.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,16.0,107,72.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_1,Male,13.0,91,48.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,13.0,102,48.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,13.0,91,48.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,20.0,116,84.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_1,Female,17.0,107,60.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,18.0,113,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,16.0,100,60.0,48.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,23.0,111,72.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Female,19.0,114,84.0,48.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,12.0,90,24.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,24.0,128,120.0,60.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,38.0,147,156.0,60.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,17.0,110,72.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,41.0,137,96.0,48.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,28.0,129,108.0,48.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,15.0,96,44.0,24.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_3,Male,54.0,171,168.0,10.0,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,0,No,Yes,Yes,Yes,No,Yes
+Disease_1,Female,28.0,135.2,132.0,12.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Week,No Difference,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,0,No,No,No,No,No,No
+Disease_1,Male,43.0,160,171.0,48.0,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,No,Yes,Yes,Yes,No,,Yes,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,50.0,160,170.0,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,No,Yes,,No,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,31.0,129,96.0,60.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,37.0,134,100.0,66.0,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,31.5,142,132.0,72.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Male,42.0,160,164.0,12.0,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,No,Yes,Yes,Yes,No,,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,56.0,160,156.0,12.0,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,3-4 Days a Week,No Difference,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,0,No,Yes,No,Yes,No,Yes
+Disease_1,Male,48.3,155,156.0,4.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3-4 Days a Week,No Difference,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,17.0,105,48.0,12.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,No Difference,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,0,No,No,No,No,Yes,No
+Disease_1,Male,18.0,110,72.0,5.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3-4 Days a Week,Evenings,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,0,No,No,No,No,No,Yes
+Disease_1,Female,42.0,152,156.0,1.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3-4 Days a Week,Evenings,Yes,No,No,No,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,60.0,168,168.0,60.0,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,No,No,No,,No,No,No,No,Yes,No,No,0,No,No,No,No,No,No
+Disease_1,Male,60.0,166,180.0,12.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,No,Yes,Yes,No,No,,No,No,No,No,Yes,No,No,0,No,No,No,No,No,No
+Disease_1,Male,24.0,127,96.0,5.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3-4 Days a Week,No Difference,No,No,No,,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,46.0,150,162.0,60.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,No Difference,No,No,Yes,,No,No,,No,No,No,No,No,No,No,0,No,Yes,Yes,No,No,No
+Disease_1,Female,35.0,150,130.0,60.0,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,,No,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,58.0,160,162.0,138.0,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,No Difference,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,Yes,No,No,0,No,No,No,No,No,No
+Disease_1,Female,16.0,115,76.0,3.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Male,65.0,163,204.0,144.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,No,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,80.0,180,213.0,168.0,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,75.0,175,197.0,102.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,No Difference,No,Yes,,,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,30.0,137,138.0,5.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,No,No,Yes,No,No,,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,25.0,118,63.0,24.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,No,Yes,No,,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,15.5,93,43.0,3.0,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,39.0,143,126.0,12.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_2,Female,25.0,131,112.0,26.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,No Difference,Yes,Yes,Yes,No,Yes,No,,Yes,No,No,No,Yes,No,No,0,No,No,Yes,No,No,Yes
+Disease_1,Female,28.6,124.5,84.0,24.0,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,No Difference,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,29.0,144,125.0,72.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,35.0,137,150.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,No Difference,No,No,Yes,Yes,No,,,No,No,No,No,No,No,No,0,No,No, , , , 
+Disease_1,Male,47.0,165,173.0,24.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,No,Yes,Yes,Yes,No,,,No,No,No,No,No,Yes,No,0,No,No,No,No,No,No
+Disease_1,Female,16.5,108,54.0,20.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,0,No,No,No,No,No,No
+Disease_1,Male,17.0,110,60.0,12.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3-4 Days a Week,Evenings,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,0,No,No,No,Yes,Yes,Yes
+Disease_1,Female,29.0,130,108.0,60.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3-4 Days a Week,Evenings,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,20.0,116.5,60.0,24.0,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,No Difference,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,17.0, ,53.0,6.0,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,18.0,95,36.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,43.0,153,168.0,60.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,No,Yes,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,22.0,113,72.0,24.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,No,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,37.0,129,91.0,66.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,34.0,142,144.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Male,13.0,94,36.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Female,34.0,128,120.0,48.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,12.0,96,24.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,45.0,160,153.0,12.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Mornings,No,Yes,,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_3,Male,68.0,165,147.0,50.0,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Mornings,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,0,No,No,No,No,No,No
+Disease_3,Male,45.0,162,206.0,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,No,No,No,,,Yes,No,Yes,Yes,Yes,No,Yes,0,No,No,Yes,No,No,No
+Disease_1,Male,43.0,157,140.0,36.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,No,Yes,,No,No,,,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_1,Female,15.0,93,36.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,No,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,17.0,110,132.0,48.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,No,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,Yes,No,No,No
+Disease_1,Female,13.0,95,40.0,3.0,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,49.0,153,181.0,6.0,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,3-4 Days a Week,Evenings,Yes,Yes,,No,No,,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,35.0,137,132.0,36.0,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,Evenings,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,22.0,127,84.0,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Month,No Difference,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,0,No,No,No,No,No,No
+Disease_1,Male,15.0,110,180.0,12.0,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,0,No,No,Yes,No,No,No
+Disease_1,Male,38.0,136,126.0,6.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Month,Mornings,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,0,No,No,No,No,No,No
+Disease_1,Male,18.0,115,60.0,12.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,Mornings,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Female,12.0,92,30.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,Evenings,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,0,No,No,No,No,No,No
+Disease_1,Female,22.5,118,72.0,36.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,Evenings,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_1,Male,24.0,131,114.0,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Month,No Difference,Yes,Yes,Yes,No,Yes,No,,No,No,No,No,No,Yes,No,0,No,No,No,No,No,No
+Disease_1,Male,40.0,140,125.0,36.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,26.0,131,115.0,60.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,1-2 Days a Month,Evenings,No,No,,Yes,Yes,Yes,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_1,Male,25.0,120,46.0,24.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,Yes,No,,,No,No,No,No,No,No,No,0,No,No,No,No,Yes,No
+Disease_2,Female,17.5,102,51.0,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,Evenings,Yes,Yes,Yes,Yes,No,,,No,No,No,No,No,Yes,No,0,No,No,Yes,No,No,No
+Disease_2,Male,32.0,151,127.0,67.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,Mornings,No,No,Yes,Yes,No,,,No,No,No,No,Yes,No,No,0,No,No,No,No,No,No
+Disease_2,Male,15.5,97,40.0,34.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,,,No,No,No,No,Yes,No,Yes,0,No,No,Yes,No,No,Yes
+Disease_1,Female,15.0,110,36.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,Evenings,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,0,No,No,No,No,No,No
+Disease_2,Male,14.0,96,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Month,No Difference,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,0,No,No,No,No,No,Yes
+Disease_2,Male,23.0,124,120.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,Yes,No,Yes
+Disease_2,Female,64.0,167,204.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,No,No,Yes
+Disease_2,Male,30.0,134,144.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No,Yes,No,No,Yes
+Disease_2,Female,21.0,120,98.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,Yes,Yes,Yes,Yes
+Disease_2,Male,12.0,91,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No, , , ,Yes
+Disease_2,Male,17.0,110,72.0,40.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,Yes,No,No,Yes
+Disease_2,Female,38.0,147,132.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,Yes,Yes,No,Yes
+Disease_2,Female,15.0,104,60.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,Yes,No,No,Yes
+Disease_2,Female,26.0,130,132.0,60.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No,Yes,No,No,Yes
+Disease_2,Female,19.0,119,96.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,Yes,No,Yes
+Disease_2,Female,19.0,115,84.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,No,No,Yes
+Disease_2,Female,30.0,135,132.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,No,No,Yes
+Disease_2,Female,43.0,153,156.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No,No,Yes,No,Yes
+Disease_2,Female,16.0,105,72.0,20.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,No,No,Yes
+Disease_2,Female,21.0,120,98.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,Yes,No,No,Yes
+Disease_2,Female,25.0,130,120.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,No,No,Yes
+Disease_2,Male,29.0,133,144.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No,No,Yes,No,Yes
+Disease_2,Female,23.0,124,120.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No, , , ,Yes
+Disease_2,Female,30.0,134,132.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No,No,No,Yes,Yes
+Disease_2,Female,17.0,109,72.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,No,Yes,Yes
+Disease_2,Male,17.0,108,84.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,Yes,Yes,Yes
+Disease_2,Male,22.0,122,98.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,Yes,No,Yes
+Disease_2,Male,17.0,110,72.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,No,Yes,Yes
+Disease_2,Female,15.0,98,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,Yes,Yes,Yes
+Disease_2,Female,17.0,110,60.0,24.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No,No,Yes,No,Yes
+Disease_2,Male,44.0,155,180.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,Yes,No,No,Yes
+Disease_2,Female,12.0,91,36.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_2,Male,15.0,101,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,Yes,Yes,No
+Disease_2,Male,38.0,147,192.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,Yes,No,No,No
+Disease_2,Male,11.0,89,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_2,Male,33.0,141,156.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_2,Female,38.0,147,156.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,No,No,No
+Disease_2,Female,29.0,135,144.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_2,Male,50.0,159,180.0,48.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No, , , , 
+Disease_2,Female,13.0,95,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No, , , ,No
+Disease_2,Male,10.5,89,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No, , , , 
+Disease_2,Male,15.0,111,84.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No, , , , 
+Disease_2,Female,31.0,133,120.0,60.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,Yes,0,No,No, , , , 
+Disease_2,Female,23.0,124,108.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,No,Yes, 
+Disease_2,Female,10.0,76,12.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,No,Yes,No,No,0,No,No,No,No,Yes, 
+Disease_2,Male,43.0,153,156.0,60.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,Yes,Yes,No,Yes,0,No,No,No,No,No,No
+Disease_2,Female,13.0,96,48.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,No,No,,Yes,No,No,Yes,Yes,No,No,0,No,No,No,No,No,No
+Disease_1,Female,42.0,152,150.0,24.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,Mornings,No,No,Yes,No,No,,,No,No,No,No,No,No,No,0,No,No,No,No,No,No
+Disease_2,Female,19.5,112,95.0,24.0,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,No,Yes,Yes,Yes,Yes,,,No,No,No,No,No,No,Yes,0,No,No,No,Yes,No,Yes
+Disease_1,Male,22.0,117,81.0,6.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Week,No Difference,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,0,No,No,No,No,No,No
+Disease_1,Male,38.4,136,132.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Week,Evenings,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,2,No,No,No,No,No,No
+Disease_1,Male,47.0,164,170.0,7.0,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Evenings,No,Yes,Yes,Yes,No,,,No,No,No,No,No,No,No,2,Yes,No,No,No,No,No
+Disease_1,Female,36.0,138,126.0,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Mornings,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,2,No,No,No,No,No,No
+Disease_1,Female,31.0,124,94.0,7.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,No,No,Yes,Yes,No,,No,No,No,No,No,No,No,2,Yes,No,No,No,No,No
+Disease_1,Female,15.0,100,54.0,12.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,,,No,No,No,No,No,Yes,No,2,Yes,No,No,No,Yes,No
+Disease_1,Male,17.0,110,60.0,12.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,Evenings,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,2,No,No,No,No,No,No
+Disease_1,Female,30.0,135,131.0,12.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,,Mornings,Yes,Yes,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,2,Yes,No,No,No,No,No
+Disease_1,Female,45.0,158,144.0,24.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,3,No,Yes,No,Yes,No,No
+Disease_1,Female,32.0,142,96.0,2.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,4,Yes,No,No,No,No,No
+Disease_1,Female,34.0,140,120.0,12.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,No,No,,,No,No,No,No,No,No,No,4,Yes,No,No,No,No,No
+Disease_1,Female,21.5,125.5,84.0,30.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,Mornings,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,4,Yes,Yes,No,No,No,No
+Disease_1,Female,45.0,156,156.0,18.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Week,No Difference,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,4,Yes,No,Yes,No,No,No
+Disease_1,Male,32.0,128.5,103.0,1.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Week,Evenings,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,4,Yes,No,No,No,No,No
+Disease_1,Female,40.0,167,162.0,12.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Week,No Difference,No,Yes,No,Yes,Yes,Yes,,No,No,No,No,No,No,No,4,Yes,No,No,No,No,No
+Disease_1,Male,30.0,132,78.0,12.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,4,Yes,No,No,No,Yes,No
+Disease_1,Male,58.0,165,208.0,12.0,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,No Difference,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,4,Yes,No,No,No,No,No
+Disease_1,Male,14.0,108,50.0,12.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,4,Yes,No,No,No,No,No
+Disease_1,Female,26.0,140,108.0,36.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,Evenings,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,4,Yes,No,Yes,No,No,No
+Disease_1,Male,25.25,115,72.0,36.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,Evenings,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,4,Yes,No,No,No,No,No
+Disease_1,Male,62.0,168,192.0,24.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,No,Yes,Yes,No,No,,No,No,No,No,No,No,No,5,Yes,No,Yes,No,No,No
+Disease_1,Male,12.0,97,36.0,1.0,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Evenings,Yes,Yes,Yes,Yes,Yes,Yes,,No,No,No,No,No,No,No,5,Yes,No,No,No,No,No
+Disease_3,Female,36.0,146,150.0,24.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,Evenings,No,Yes,Yes,,No,,,Yes,Yes,No,Yes,Yes,No,No,5,Yes,No,Yes,No,No,No
+Disease_1,Male,18.0,115,54.0,3.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,3-4 Days a Week,Evenings,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,5,Yes,Yes,No,No,No,No
+Disease_1,Male,30.0,136,108.0,24.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,5,Yes,No,No,No,No,No
+Disease_1,Male,22.5,119,72.0,12.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,Evenings,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,5,Yes,No,No,No,No,No
+Disease_1,Male,33.0,134,102.0,1.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Every Day,No Difference,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,6,Yes,No,No,No,No,No
+Disease_1,Female,23.0,126,66.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Every Day,Evenings,Yes,No,Yes,Yes,No,No,,No,No,No,No,Yes,No,No,6,Yes,Yes,No,No,No,No
+Disease_1,Male,19.0,106,60.0,3.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1-2 Days a Week,Evenings,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,6,Yes,No,No,No,No,No
+Disease_1,Female,38.0,137,120.0,12.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3-4 Days a Week,No Difference,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,6,Yes,Yes,No,No,No,No
+Disease_1,Female,34.0,136,90.0,6.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3-4 Days a Week,Mornings,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,6,Yes,Yes,Yes,No,No,No
+Disease_1,Female,18.0,110,48.0,2.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3-4 Days a Week,Mornings,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,6,Yes,No,No,No,No,No
+Disease_1,Male,25.0,120,84.0,1.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,6,Yes,No,No,No,Yes,Yes
+Disease_1,Male,35.0,138,108.0,1.0,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,6,Yes,No,No,No,No,No
+Disease_1,Female,36.0,142,144.0,24.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3-4 Days a Week,No Difference,No,Yes,No,Yes,No,,,No,No,No,No,Yes,No,No,8,Yes,No,No,No,No,No
+Disease_1,Male,60.0,172,165.0,120.0,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Every Day,Evenings,Yes,Yes,,Yes,Yes,Yes,,No,No,No,No,No,No,No,9,Yes,No,No,No,No,No
+Disease_1,Female,41.0,147,156.0,60.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,No,,No,No,No,No,No,No,No,9,Yes,Yes,Yes,No,No,No
+Disease_1,Male,37.0,138,144.0,120.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,3-4 Days a Week,Evenings,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,No,No,No,No,9,Yes,No,No,No,No,No
+Disease_1,Male,30.0,130,108.0,6.0,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,1-2 Days a Month,No Difference,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,9,Yes,No,Yes,No,No,No
